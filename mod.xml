@@ -1,0 +1,5 @@
+<Mod
+    name="Music Intensity Controller"
+    description="Adjust how intense the music is--and allow it to play all the time."
+    request_no_api_restrictions="0"
+></Mod>
