@@ -1,5 +1,5 @@
 <Mod
-    name="Music Intensity Controller"
-    description="Adjust how intense the music is--and allow it to play all the time."
+    name="Background Music Controller"
+    description="Allow the background music to play all the time."
     request_no_api_restrictions="0"
 ></Mod>

@@ -7,7 +7,7 @@ mod_settings =
     {
         id = "intensity_level",
         ui_name = "Intensity",
-        ui_description = "Affects how intense the ambient music is.\n0% is quiet, 20% is mild, 50% is mid, and 100% is max.",
+        ui_description = "Affects how intense the background music is.\n0% is quiet, 20% is mild, 50% is mid, and 100% is max.",
         value_default = 0.2,
         value_min = 0,
         value_max = 1,
